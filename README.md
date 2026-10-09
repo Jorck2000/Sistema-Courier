@@ -1,4 +1,15 @@
-# Punto de Venta para una tienda
+# Sistema Courier - Alexa Courier
+
+Sistema web de gestión para **Alexa Courier**, desarrollado con **Laravel 12**. Permite administrar las operaciones del negocio desde un solo lugar:
+
+-  Ventas, compras y comprobantes
+-  Clientes y proveedores
+-  Productos, categorías, marcas y presentaciones
+-  Inventario y kardex
+-  Cajas y movimientos
+-  Empleados, usuarios, roles y permisos
+-  Reportes en PDF y Excel
+-  Registro de actividad del sistema
 
 ## Dependencias
 
@@ -125,9 +136,9 @@ php artisan serve
 
 ## Notas
 
--  Obtenga más información sobre este proyecto [aquí](https://universityproyectx.blogspot.com/2022/10/sistema-de-ventas-web-minersa-srl.html).
+-  Este sistema está basado en un proyecto de punto de venta de código abierto, puede obtener más información sobre el proyecto base [aquí](https://universityproyectx.blogspot.com/2022/10/sistema-de-ventas-web-minersa-srl.html).
 
-- [FAQ sobre el proyecto](https://universityproyectx.blogspot.com/2023/06/faq-sobre-el-sistema-de-ventas-de.html)
+- [FAQ sobre el proyecto base](https://universityproyectx.blogspot.com/2023/06/faq-sobre-el-sistema-de-ventas-de.html)
 
   
 
