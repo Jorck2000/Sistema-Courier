@@ -144,7 +144,7 @@ php artisan serve
 
 ## Licencia
 
--  Este proyecto está licenciado bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
+-  El proyecto base en el que se apoya este sistema está licenciado bajo la Licencia MIT. El aviso de copyright y el texto de la licencia se encuentran en el archivo [NOTICE.md](NOTICE.md).
 
 -  Obtenga más información sobre esta licencia [MIT license](https://opensource.org/licenses/MIT).
 

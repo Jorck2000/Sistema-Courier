@@ -1,3 +1,7 @@
+# Avisos de terceros
+
+Este sistema está basado en un proyecto de punto de venta de código abierto, distribuido bajo la siguiente licencia:
+
 MIT License
 
 Copyright (c) 2025 SakCode
